@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     Log.d("Name :::", h.getName());
                     Log.d("ImageUrl :::", h.getImageurl());
                     Log.d("Bio :::", h.getBio());
+                    Log.d("Firstappearance :::", h.getFirstappearance());
                 }
             }
 
